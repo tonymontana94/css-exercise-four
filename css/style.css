@@ -17,8 +17,10 @@ body {
   padding-bottom: 50px;
   padding-left: 20px;
   width: 100%;
+  text-transform: uppercase;
 }
-/* Left off trying to add image background*/
+
+/* image added, need to fix height*/
 .previewbaku {
   background-image: url(../images/baku.jpg);
   width: 133%;
