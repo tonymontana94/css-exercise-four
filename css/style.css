@@ -16,17 +16,44 @@ text-transform: uppercase;
 }
 
 .previewbaku {
-  margin:auto 15%;
+  padding-bottom: 50%;
+  background-image: url(../images/baku.jpg);
+  background-size: contain;
+  background-repeat: no-repeat;
 }
+  .previewbaku h1 {
+    margin-left: 10%;
+    padding-top: 10%;
+  }
 
 .previewlondon {
-  margin: auto 15%;
+  padding-bottom: 50%;
+  background-image: url(../images/london.png);
+  background-size: contain;
+  background-repeat: no-repeat;
 }
-
+  .previewlondon h1 {
+    margin-left: 10%;
+    padding-top: 10%;
+}
 .previewmadrid {
-  margin: auto 15%;
+  padding-bottom: 50%;
+  background-image: url(../images/madrid.jpg);
+  background-size: contain;
+  background-repeat: no-repeat;
+  width: auto 100;
 }
-
+  .previewmadrid h1 {
+    margin-left: 10%;
+    padding-top: 10%;
+}
 .previewrome {
-  margin: auto 15%;
+  padding-bottom: 50%;
+  background-image: url(../images/rome.jpg);
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+  .previewrome h1 {
+    margin-left: 10%;
+    padding-top: 10%;
 }
