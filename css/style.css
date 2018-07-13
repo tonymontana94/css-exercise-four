@@ -15,7 +15,7 @@ text-transform: uppercase;
 
 .container {
   background-color: #DFDEE0;
-  margin: 35%;
+  width: 100%;
 }
 
 .preview {
@@ -28,6 +28,75 @@ text-transform: uppercase;
     padding-top: 10%;
 }
 
+@media screen and (min-width: 575px){
+   body {
+    margin: 1%;
+    width: 100%;
+  }
+
+  .title {
+    font-size: 40px;
+  }
+  .preview h1 {
+    font-size: 40px;
+  }
+  .container {
+    margin: 1%;
+    width: 100%;
+    background-size: cover;
+  }
+  .baku {
+    width: 48%;
+    float: right;
+  }
+  .london {
+    width: 48%;
+    float: left;
+  }
+  .rome {
+    width: 48%;
+    float: left;
+  }
+  .madrid {
+    width: 48%;
+    float: right;
+  }
+}
+
+@media screen and (min-width: 991px){
+   body {
+    margin: 1%;
+    width: 100%;
+  }
+
+  .title {
+    font-size: 40px;
+  }
+  .preview h1 {
+    font-size: 40px;
+  }
+  .container {
+    margin: 1%;
+    width: 100%;
+    background-size: cover;
+  }
+  .baku {
+    width: 25%;
+    float: left;
+  }
+  .london {
+    width: 25%;
+    float: left;
+  }
+  .rome {
+    width: 25%;
+    float: left;
+  }
+  .madrid {
+    width: 25%;
+    float: left;
+  }
+}
 .baku {
       background-image: url(../images/baku.jpg);
       background-size: cover;
