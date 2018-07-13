@@ -22,52 +22,31 @@ text-transform: uppercase;
   margin-bottom: 5%;
   padding-bottom: 50%;
 }
-  .preview h1 {
+
+.preview h1 {
     margin-left: 10%;
     padding-top: 10%;
 }
-    .baku {
+
+.baku {
       background-image: url(../images/baku.jpg);
       background-size: cover;
       background-repeat: no-repeat;
 }
-.preview {
-  margin-bottom: 5%;
-  padding-bottom: 50%;
-}
-  .preview h1 {
-    margin-left: 10%;
-    padding-top: 10%;
-}
-    .london {
+
+.london {
       background-image: url(../images/london.png);
       background-size: cover;
       background-repeat: no-repeat;
 }
 
-.preview {
-  margin-bottom: 5%;
-  padding-bottom: 50%;
-}
-  .preview h1 {
-    margin-left: 10%;
-    padding-top: 10%;
-}
-    .madrid {
+.madrid {
       background-image: url(../images/madrid.jpg);
     background-size: cover;
     background-repeat: no-repeat;
 }
 
-.preview {
-  margin-bottom: 5%;
-  padding-bottom: 50%;
-}
-  .preview h1 {
-    margin-left: 10%;
-    padding-top: 10%;
-}
-   .rome {
+.rome {
      background-image: url(../images/rome.jpg);
      background-size: cover;
      background-repeat: no-repeat;
